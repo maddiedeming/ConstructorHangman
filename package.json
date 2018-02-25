@@ -1,0 +1,25 @@
+{
+  "name": "ConstructorHangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddiedeming/ConstructorHangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddiedeming/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/maddiedeming/ConstructorHangman#readme",
+  "dependencies": {
+    "chalk-pipe": "^1.2.0",
+    "dotenv": "^5.0.0",
+    "inquirer": "^5.1.0"
+  }
+}
