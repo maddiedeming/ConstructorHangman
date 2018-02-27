@@ -71,7 +71,8 @@ function prompt(){
                     }
                 }
                 if(winner === true){
-                    ui.log.write(error("You Win!"));
+                    ui.log.write(main("Word: " + newWord.word));
+                    ui.log.write(success("You Win!"));
                     exitGame();
                 }
                 else{

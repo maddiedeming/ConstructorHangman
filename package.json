@@ -19,7 +19,8 @@
   "homepage": "https://github.com/maddiedeming/ConstructorHangman#readme",
   "dependencies": {
     "chalk-pipe": "^1.2.0",
-    "dotenv": "^5.0.0",
-    "inquirer": "^5.1.0"
+    "dotenv": "^5.0.1",
+    "inquirer": "^5.1.0",
+    "request": "^2.83.0"
   }
 }
